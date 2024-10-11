@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="D:\Coding\Semester4\SoftwareEngineering\Frontend\src\tests\test.js">
+    <testCase name="[单元测试] 检查报错的函数" duration="2"/>
+  </file>
+</testExecutions>
